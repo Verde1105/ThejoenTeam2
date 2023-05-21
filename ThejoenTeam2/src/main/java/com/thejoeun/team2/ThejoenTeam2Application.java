@@ -1,4 +1,4 @@
-package com.thejoen.team2;
+package com.thejoeun.team2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

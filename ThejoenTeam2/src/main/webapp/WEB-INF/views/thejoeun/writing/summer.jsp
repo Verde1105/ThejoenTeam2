@@ -165,16 +165,6 @@
 									</p>
 								</div>
 
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
-
-print 'It took ' + i + ' iterations to sort the deck.';
-
-
-
 					</div>
 				</div>
 

@@ -35,7 +35,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>아마도 쇼핑몰이 될 것<br />
+											<h1>프로젝트<br />
 											by HHR</h1>
 											<p>A free and fully responsive site template</p>
 										</header>

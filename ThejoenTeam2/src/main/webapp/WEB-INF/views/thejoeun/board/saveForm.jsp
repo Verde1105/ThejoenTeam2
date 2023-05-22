@@ -34,7 +34,8 @@
 							<!-- Content -->
 							<section>
 								<header class="main">
-									<h1>글쓰기</h1>
+								
+									<h2>글쓰기</h2>
 								</header>
 
 								<form>
@@ -46,7 +47,7 @@
 										<textarea class = "from-control summernote" rows="5" id="content"></textarea>
 									</div>
 								</form>
-								<button id ="btn-save" class="btn btn-primary">글쓰기 완료</button>
+								<button id ="btn-save" class="btn btn-light">글쓰기 완료</button>
 							</section>
 
 						</div>

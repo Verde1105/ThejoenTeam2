@@ -1,4 +1,6 @@
-<!-- Sidebar -->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+    <!-- Sidebar -->
 <div id="sidebar">
 	<div class="inner">
 
@@ -20,15 +22,15 @@
 					<li><a href="/thejoeun/ele">Elements</a></li>
 					<li><a href="/thejoeun/board">Board</a></li>
 					<li>
-						<span class="opener">[Empty]Submenu</span>
+						<span class="opener">계절별 질병</span>
 						<ul>
-							<li><a href="#">Lorem Dolor</a></li>
-							<li><a href="#">Ipsum Adipiscing</a></li>
-							<li><a href="#">Tempus Magna</a></li>
-							<li><a href="#">Feugiat Veroeros</a></li>
+							<li><a href="">봄철 질병</a></li>
+							<li><a href="/thejoeun/여름감염병">여름철 질병</a></li>
+							<li><a href="#">가을철 질병</a></li>
+							<li><a href="#">겨울철 질병</a></li>
 						</ul>
 					</li>
-					<li><a href="#">[Empty]Etiam Dolore</a></li>
+					<li><a href="#">날씨 + 온도 </a></li>
 					<li><a href="#">[Empty]Adipiscing</a></li>
 					<li>
 						<span class="opener">[Empty]Another Submenu</span>

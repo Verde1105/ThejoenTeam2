@@ -40,7 +40,7 @@
 									<div class="container">
 										<div class="card M-2">
 											<div class="card-body">
-												<h4 class="card-title">${board.title}</h4>
+												<h6 class="card-title">${board.title}</h6>
 												<a href="/thejoeun/board/${board.id}" class="btn btn-primary">상세보기</a>
 											</div>
 										</div>

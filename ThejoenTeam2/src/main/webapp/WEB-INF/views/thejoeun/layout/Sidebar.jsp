@@ -31,7 +31,7 @@
 						</ul>
 					</li>
 					<li><a href="#">날씨 + 온도 </a></li>
-					<li><a href="#">[Empty]Adipiscing</a></li>
+					<li><a href="#">무더위 쉼터 위치(서울 종로구)</a></li>
 					<li>
 						<span class="opener">[Empty]Another Submenu</span>
 						<ul>

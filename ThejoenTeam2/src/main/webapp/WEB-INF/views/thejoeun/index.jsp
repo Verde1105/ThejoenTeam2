@@ -52,7 +52,7 @@
 							<!-- Section -->
 							<section>
 								<header class="major">
-									<h2>Erat lacinia</h2>
+									<h2>손씻기 규칙같은거</h2>
 								</header>
 								<div class="features">
 									<article>
@@ -89,7 +89,7 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>Ipsum sed dolor</h2>
+										<h2>보건소 혹은 보건복지부에서 진행중인 공고문 긁어와 붙이기 혹은 클릭 링크 </h2>
 									</header>
 									<div class="posts">
 										<article>

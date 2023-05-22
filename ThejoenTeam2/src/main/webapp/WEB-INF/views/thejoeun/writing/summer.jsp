@@ -164,7 +164,16 @@
 									소독방법 : 염소처리, 고온살균법, 자외선 조사, 오존처리, 구리-은 이온화법 등
 									</p>
 								</div>
-
+								
+								<div class="text_area mb20">
+									<a href="http://www.mohw.go.kr" target="_blank" title="새창열림">
+										<img alt="보건복지부" src="/images/pic09.jpg">
+									</a> 
+									
+									<a href="http://www.cdc.go.kr" target="_blank" title="새창열림">
+										<img alt="질병관리본부" src="/images/pic09.jpg">
+									</a>
+								</div>
 					</div>
 				</div>
 

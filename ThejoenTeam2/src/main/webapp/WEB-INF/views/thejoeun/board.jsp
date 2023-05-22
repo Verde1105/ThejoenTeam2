@@ -34,7 +34,7 @@
 							<!-- Content -->
 							<section>
 								<header class="main">
-									<h1>게시판</h1>
+									<h2>게시판</h2>
 								</header>
 								<c:forEach var="board" items="${boards.content}">
 									<div class="container">

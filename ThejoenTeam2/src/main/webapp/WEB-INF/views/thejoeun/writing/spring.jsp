@@ -156,7 +156,16 @@
 										환자의 비인두 분비물, 분비물에 오염된 물품 소독
 									</p>
 								</div>
-								
+							
+								<div class="text_area mb20">
+									<a href="http://www.mohw.go.kr" target="_blank" title="새창열림">
+										<img alt="보건복지부" src="/images/보건복지부로고.jpg">
+									</a> 
+									
+									<a href="http://www.cdc.go.kr" target="_blank" title="새창열림">
+										<img alt="질병관리본부" src="/images/질병관리청로고.png">
+									</a>
+								</div>
 					</div>
 				</div>
 

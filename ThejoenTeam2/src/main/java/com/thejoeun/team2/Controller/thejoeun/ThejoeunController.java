@@ -27,19 +27,23 @@ public class ThejoeunController {
 		return "thejoeun/index";
 	}
 
-	//계절성 감염병 링크
+	//이하 계절성 감염병 링크
+	//봄 페이지
 	@GetMapping("/thejoeun/spring")
 	public String spring() {
 		return "thejoeun/writing/spring";
 	}
+	//여름 페이지
 	@GetMapping("/thejoeun/summer")
 	public String summer() {
 		return "thejoeun/writing/summer";
 	}
+	//가을 페이지
 	@GetMapping("/thejoeun/autumn")
 	public String autumn() {
 		return "thejoeun/writing/autumn";
 	}
+	//겨울 페이지
 	@GetMapping("/thejoeun/winter")
 	public String winter() {
 		return "thejoeun/writing/winter";

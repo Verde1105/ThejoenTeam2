@@ -47,7 +47,7 @@
 										<textarea class = "from-control summernote" rows="5" id="content"></textarea>
 									</div>
 								</form>
-								<button id ="btn-save" class="btn btn-light">글쓰기 완료</button>
+								<button id ="Thejoeun-btn-save" class="btn btn-light">글쓰기 완료</button>
 							</section>
 
 						</div>

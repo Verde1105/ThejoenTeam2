@@ -54,7 +54,7 @@
 	<button class = "button primary btn btn-secondary" onclick="history.back()">돌아가기</button>
 	<c:if test="${board.user.id == principal.user.id}">
 		<a href = "/thejoeun/board/${board.id}/updateForm" class = "button primary btn btn-warning">수정</a>
-		<button id="btn-delete" class = "button primary btn btn-danger">삭제</button>
+		<button id="Thejoeun-btn-delete" class = "button primary btn btn-danger">삭제</button>
 	</c:if>
 	
 	<br>

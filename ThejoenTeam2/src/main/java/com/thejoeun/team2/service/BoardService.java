@@ -58,6 +58,7 @@ public class BoardService {
 					return new IllegalArgumentException("글 찾기 실패 : 대당하는 글을 찾을 수 없습니다.");
 				});//영속화 완료
 		board.setTitle(requestBoard.getTitle());
+		board.setContent(requestBoard.getContent());// [오류수정20230522] 내용이 빠져있었음!!
 		board.setCount(requestBoard.getCount());
 		//해당 함수 종료시(서비스 조욜시) 트랜잭션 종료, 자동 업데이트가 되어서 db에 갱신
 	}

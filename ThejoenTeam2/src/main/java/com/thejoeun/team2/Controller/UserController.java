@@ -18,6 +18,7 @@ public class UserController {
 	public String loginForm() {
 		System.out.println("Success Login");
 		return "user/loginForm";
+//		return "thejoeun/index";
 	}
 
 	@GetMapping("/user/updateForm")

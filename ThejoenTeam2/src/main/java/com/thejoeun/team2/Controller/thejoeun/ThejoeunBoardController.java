@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import com.thejoeun.team2.service.BoardService;
 
 @Controller
-public class TjejoeunBoardController {
+public class ThejoeunBoardController {
 
 	@Autowired
 	private BoardService boardService;

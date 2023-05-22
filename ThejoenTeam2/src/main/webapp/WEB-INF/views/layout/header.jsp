@@ -25,7 +25,7 @@
 		
 		<nav class="navbar navbar-expand-md bg-dark navbar-dark">
 			<div class="collapse navbar-collapse" id="collapsibleNavbar">
-				<a class="navbar-brand" href="/">Home</a>
+				<a class="navbar-brand" href="/thejoeun/index">Home</a>
 				<button class="navbar-toggler" type="button" data-toggle="collapse"
 					data-target="#collapsibleNavbar">
 					<span class="navbar-toggler-icon"></span>

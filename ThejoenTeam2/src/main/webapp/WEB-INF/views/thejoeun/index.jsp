@@ -56,31 +56,32 @@
 								</header>
 								<div class="features">
 									<article>
-										<span class="icon fa-gem"></span>
 										<div class="content">
-											<h3>Portitor ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										<a href="https://www.flaticon.com/kr/free-icons/-" target="_blank" title="손 씻기 아이콘">손 씻기 아이콘  제작자: Konkapp - Flaticon</a>
+										<img src="/images/free-icon-hand-washing-2853684.jpg" alt="손씻기 아이콘" />
+											<h3>깨끗이 손씻기</h3>
+										</div>
+									</article>
+									
+									<article>
+										<div class="content">
+									<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="기침 아이콘">기침 아이콘  제작자: Freepik - Flaticon</a>
+										<img src="/images/free-icon-cough-2755798.jpg" alt="기침 아이콘" />
+											<h3>기침시 입을 가리고</h3>
 										</div>
 									</article>
 									<article>
-										<span class="icon solid fa-paper-plane"></span>
 										<div class="content">
-											<h3>Sapien veroeros</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+										<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="마스크 아이콘">마스크 아이콘  제작자: smashingstocks - Flaticon</a>
+										<img src="/images/free-icon-mask-7066301.jpg" alt="마스크 아이콘" />
+											<h3>증상이 있을 시 마스크 착용</h3>
 										</div>
 									</article>
 									<article>
-										<span class="icon solid fa-rocket"></span>
 										<div class="content">
-											<h3>Quam lorem ipsum</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-										</div>
-									</article>
-									<article>
-										<span class="icon solid fa-signal"></span>
-										<div class="content">
-											<h3>Sed magna finibus</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+									<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘">피곤한 아이콘  제작자: Freepik - Flaticon</a>
+										<img src="/images/free-icon-dizziness-3997708.jpg" alt="피곤한 아이콘" />
+											<h3>빠른 시일 내 내원</h3>
 										</div>
 									</article>
 								</div>
@@ -89,53 +90,47 @@
 							<!-- Section -->
 								<section>
 									<header class="major">
-										<h2>보건소 혹은 보건복지부에서 진행중인 공고문 긁어와 붙이기 혹은 클릭 링크 </h2>
+										<h2>카드뉴스</h2>
 									</header>
 									<div class="posts">
 										<article>
-											<a href="#" class="image"><img src="/images/댕기슈슈.jpg" alt="" /></a>
-											<h3>Interdum aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/무더운_여름_온열질환을_조심하세요!_카드뉴스1.jpg" alt="" /></a>
+											<h3>무더운 여름 온열질환을 주의하세요!</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/비단슈슈01.jpg" alt="" /></a>
-											<h3>Nulla amet dolore</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_1.jpg" alt="" /></a>
+											<h3>신종 감염병 대유행 대비 중장기 계획</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/비단슈슈02.jpg" alt="" /></a>
-											<h3>Tempus ullamcorper</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_1.jpg" alt="" /></a>
+											<h3>호흡기세포융합바이러스 감염증 알아보기</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/리본슈슈.jpg" alt="" /></a>
-											<h3>Sed etiam facilis</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/일반인용_엠폭스_예외는_없습니다_리플릿_1.jpg" alt="" /></a>
+											<h3>일반인용 엠폭스, 예외는 없습니다!</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/리본슈슈01.jpg" alt="" /></a>
-											<h3>Feugiat lorem aenean</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/엠폭스_방문자용.jpg" alt="" /></a>
+											<h3>발생지역 방문자용 엠폭스 안내문</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/pic06.jpg" alt="" /></a>
-											<h3>Amet varius aliquam</h3>
-											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<a href="#" class="image"><img src="/images/엠폭스_대국민용.jpg" alt="" /></a>
+											<h3>엠폭스 대국민용 안내문</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>

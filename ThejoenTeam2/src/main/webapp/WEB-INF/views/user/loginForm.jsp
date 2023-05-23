@@ -15,6 +15,7 @@
 		</div>
 		
 		<button id ="btn-login" class="btn btn-primary">로그인</button>
+		<a href="/auth/joinForm" class="button fit small">아직 회원이 아니신가요?</a>
 	</form>
 </div>
 		<script src="/js/user.js"></script>

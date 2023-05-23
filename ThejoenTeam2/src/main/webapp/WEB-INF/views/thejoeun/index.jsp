@@ -115,8 +115,8 @@
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/일반인용_엠폭스_예외는_없습니다_리플릿_1.jpg" alt="" /></a>
-											<h3>일반인용 엠폭스, 예외는 없습니다!</h3>
+											<a href="#" class="image"><img src="/images/검역관리_기본계획_카드뉴스_1_1.jpg" alt="" /></a>
+											<h3>검역관리 기본 계획</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
@@ -141,6 +141,12 @@
 						</div>
 					</div>
 
+				<!-- 위로가는 바 -->
+					<a href="#wrap" class="go_top active">
+						<i class="xi-angle-up-min"></i>
+						<span>TOP</span>
+					</a>
+					
 				<!-- Sidebar -->
 				<%@ include file="layout/Sidebar.jsp" %>
 			</div>

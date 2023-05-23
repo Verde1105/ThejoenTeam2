@@ -159,11 +159,11 @@
 							
 								<div class="text_area mb20">
 									<a href="http://www.mohw.go.kr" target="_blank" title="새창열림">
-										<img alt="보건복지부" src="/images/보건복지부로고.jpg">
+										<img alt="보건복지부" src="/images/보건소.jpg">
 									</a> 
 									
 									<a href="http://www.cdc.go.kr" target="_blank" title="새창열림">
-										<img alt="질병관리본부" src="/images/질병관리청로고.png">
+										<img alt="질병관리본부" src="/images/질병관리청.png">
 									</a>
 								</div>
 					</div>

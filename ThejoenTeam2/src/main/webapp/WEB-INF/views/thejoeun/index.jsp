@@ -21,13 +21,11 @@
 
 							<!-- Header -->
 								<header id="header">
-									<a href="index.jsp" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
+									<a href="https://www.jongno.go.kr/healthMain.do" class="logo"><strong>Health Community</strong> Project</a>
 									<ul class="icons">
-										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-										<li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-										<li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
+										<li><a href="https://twitter.com/?lang=ko" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="https://ko-kr.facebook.com/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="https://www.instagram.com/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 									</ul>
 								</header>
 
@@ -36,11 +34,11 @@
 									<div class="content">
 										<header>
 											<h1>Health Community Project </h1>
-											<p>A free and fully responsive site template</p>
+											<p></p>
 										</header>
 										<p>더조은 종로구 보건소는 언제나 방역을 위해 최선을 다합니다!</p>
 										<ul class="actions">
-											<li><a href="#" class="button big">Learn More</a></li>
+											<li><a href="#" class="button big">더 알아볼래요?</a></li>
 										</ul>
 									</div>
 									<span class="image object">
@@ -56,8 +54,8 @@
 								<div class="features">
 									<article>
 										<div class="content">
-										<a href="https://www.flaticon.com/kr/free-icons/-" target="_blank" title="손 씻기 아이콘">손 씻기 아이콘  제작자: Konkapp - Flaticon</a>
 										<img src="/images/free-icon-hand-washing-2853684.jpg" width="200px" height="200px" alt="손씻기 아이콘" />
+										<a href="https://www.flaticon.com/kr/free-icons/-" target="_blank" title="손 씻기 아이콘  제작자: Konkapp - Flaticon"></a>
 											<h3>깨끗이 손씻기</h3>
 										</div>
 									</article>
@@ -65,21 +63,21 @@
 									<article>
 										<div class="content">
 											<img src="/images/free-icon-cough-2755798.jpg" width="200px" height="200px" alt="기침 아이콘" />
-											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="기침 아이콘">기침 아이콘  제작자: Freepik - Flaticon</a>
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="기침 아이콘  제작자: Freepik - Flaticon"></a>
 											<h3>기침시 입을 가리고</h3>
 										</div>
 									</article>
 									<article>
 										<div class="content">
-											<img src="/images/free-icon-mask-7066301.jpg" width="200px" height="200px" alt="마스크 아이콘" />
-											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="마스크 아이콘">마스크 아이콘  제작자: smashingstocks - Flaticon</a>
+											<img src="/images/free-icon-mask-7066301.jpg" width="250px" height="250px" alt="마스크 아이콘" />
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="마스크 아이콘  제작자: smashingstocks - Flaticon"></a>
 											<h3>증상이 있을 시 마스크 착용</h3>
 										</div>
 									</article>
 									<article>
 										<div class="content">
 											<img src="/images/free-icon-dizziness-3997708.jpg" width="200px" height="200px" alt="피곤한 아이콘" />
-											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘">피곤한 아이콘  제작자: Freepik - Flaticon</a>
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘  제작자: Freepik - Flaticon"></a>
 											<h3>빠른 시일 내 내원</h3>
 										</div>
 									</article>
@@ -140,11 +138,12 @@
 						</div>
 					</div>
 
-				<!-- 위로가는 바 -->
-					<a href="#wrap" class="go_top active">
+				<!-- 위로가는 바 
+					<a href="#" class="actions">
 						<i class="xi-angle-up-min"></i>
 						<span>TOP</span>
 					</a>
+				-->
 					
 				<!-- Sidebar -->
 				<%@ include file="layout/Sidebar.jsp" %>

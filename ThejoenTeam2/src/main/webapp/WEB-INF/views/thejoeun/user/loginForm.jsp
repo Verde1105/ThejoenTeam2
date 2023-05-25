@@ -6,7 +6,7 @@
 <div class="container">
 		<form action="/auth/loginProc" method="post">
 			<div class="form-group">
-				<label for="Username">Username</label> 
+				<label for="Username">Username 11</label> 
 				<input type="text" name="username" class="form-control" placeholder="Enter Username" id="Username">
 			</div>
 			<div class="form-group">
@@ -15,8 +15,8 @@
 			</div>
 			
 			<button id ="btn-login" class="btn btn-primary">로그인</button>
-			<!-- <a href="https://kauth.kakao.com/oauth/authorize?client_id=e0367cbe875031d9ec0660715208c3a3&redirect_uri=http://localhost:8080/auth/kakao/callback&response_type=code"><img height="38px" src="/images/kakao_login_medium_narrow.jpg"/></a> -->
-			<a href="https://kauth.kakao.com/oauth/authorize?client_id=e0367cbe875031d9ec0660715208c3a3&redirect_uri=http://<% request.getRequestURI(); %>/auth/kakao/callback&response_type=code"><img height="38px" src="/images/kakao_login_medium_narrow.jpg"/></a>
+			<a href="https://kauth.kakao.com/oauth/authorize?client_id=e0367cbe875031d9ec0660715208c3a3&redirect_uri=http://<% request.getRequestURI(); %>/auth/kakao/callback&response_type=code">
+			<%-- <a href="https://kauth.kakao.com/oauth/authorize?response_type=code&client_id=e086957eaf8ccc25079d44e2c7c7f261&redirect_uri=http://<% request.getRequestURI(); %>/auth/kakao/callback"><img height="38px" src="/images/kakao_login_medium_narrow.jpg"/> --%>
 				<img height="38px" src="/images/kakao_login_medium_narrow.jpg"/>
 			</a>
 			

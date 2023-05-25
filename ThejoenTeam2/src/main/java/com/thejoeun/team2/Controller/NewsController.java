@@ -17,10 +17,10 @@ public class NewsController{
     private NewsRepository newsRepository;
 
 
-	  @GetMapping("/news")
+	  @GetMapping("/thejoeun/news")
 	    public String showNews(Model model) {
 	        List<NewsArticle> newsList = newsRepository.findAll();
 	        model.addAttribute("newsList", newsList);
-	        return "news";
+	        return "thejoeun/writing/news";
 	    }
 	}

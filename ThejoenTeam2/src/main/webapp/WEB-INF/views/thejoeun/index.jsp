@@ -91,45 +91,45 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="#" class="image"><img src="/images/무더운_여름_온열질환을_조심하세요!_카드뉴스1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/" class="image"><img src="/images/무더운_여름_온열질환을_조심하세요!_카드뉴스1.jpg" alt="" /></a>
 											<h3>무더운 여름 온열질환을 주의하세요!</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/infectious" class="image"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_1.jpg" alt="" /></a>
 											<h3>신종 감염병 대유행 대비 중장기 계획</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/infectious" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/respiratory" class="image"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_1.jpg" alt="" /></a>
 											<h3>호흡기세포융합바이러스 감염증 알아보기</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/respiratory" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/검역관리_기본계획_카드뉴스_1_1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/" class="image"><img src="/images/검역관리_기본계획_카드뉴스_1_1.jpg" alt="" /></a>
 											<h3>검역관리 기본 계획</h3>
 											<ul class="actions">
 												<li><a href="#" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/엠폭스_방문자용.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/mpox_guest" class="image"><img src="/images/엠폭스_방문자용.jpg" alt="" /></a>
 											<h3>발생지역 방문자용 엠폭스 안내문</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/mpox_guest" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
-											<a href="#" class="image"><img src="/images/엠폭스_대국민용.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/mpox_people" class="image"><img src="/images/엠폭스_대국민용.jpg" alt="" /></a>
 											<h3>엠폭스 대국민용 안내문</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/mpox_people" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 									</div>

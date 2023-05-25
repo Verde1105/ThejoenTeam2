@@ -33,7 +33,7 @@
 						<li><a href="/thejoeun/winter">겨울철 질병</a></li>
 					</ul>
 				</li>
-				<li><a href="#">뉴스 찾아보기</a></li>
+				<li><a href="/thejoeun/news">뉴스 찾아보기</a></li>
 				<li><a href="#">무더위 쉼터 위치(서울 종로구)</a></li>
 				<li>
 					<span class="opener">그래프로 보기</span>

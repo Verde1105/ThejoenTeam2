@@ -2,6 +2,10 @@
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <!DOCTYPE html>
 <html>
+    <head>
+		<%@ include file="layout/header.jsp" %>
+	</head>
+	
 <head>
     <meta charset="UTF-8">
     <title>News Articles</title>
@@ -70,7 +74,12 @@
                 </c:forEach>
             </tbody>
         </table>
+	<!-- Sidebar -->
+	<%@ include file="layout/Sidebar.jsp" %>
     </div>
+    
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </body>
+
 </html>

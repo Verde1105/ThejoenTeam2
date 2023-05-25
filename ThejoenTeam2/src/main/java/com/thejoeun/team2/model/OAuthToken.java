@@ -2,7 +2,6 @@ package com.thejoeun.team2.model;
 
 import lombok.Data;
 
-	
 @Data
 public class OAuthToken {
 	private String access_token;
@@ -12,7 +11,5 @@ public class OAuthToken {
 	private String scope;
 	private int refresh_token_expires_in;
 }
-
-
 
 

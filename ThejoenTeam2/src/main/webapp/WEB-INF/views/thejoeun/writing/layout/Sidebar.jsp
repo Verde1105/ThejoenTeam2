@@ -30,20 +30,19 @@
 							<li><a href="/thejoeun/winter">겨울철 질병</a></li>
 						</ul>
 					</li>
-					<li><a href="#">날씨 + 온도 </a></li>
-					<li><a href="#">[Empty]Adipiscing</a></li>
-					<li>
-						<span class="opener">[Empty]Another Submenu</span>
-						<ul>
-							<li><a href="#">Lorem Dolor</a></li>
-							<li><a href="#">Ipsum Adipiscing</a></li>
-							<li><a href="#">Tempus Magna</a></li>
-							<li><a href="#">Feugiat Veroeros</a></li>
-						</ul>
-					</li>
-					<li><a href="#">[Empty]Maximus Erat</a></li>
-					<li><a href="#">[Empty]Sapien Mauris</a></li>
-					<li><a href="#">[Empty]Amet Lacinia</a></li>
+					<li><a href="/thejoeun/news">뉴스 찾아보기</a></li>
+				<li><a href="#">무더위 쉼터 위치(서울 종로구)</a></li>
+				<li>
+					<span class="opener">그래프로 보기</span>
+					<ul>
+						<li><a href="#">날씨&온도</a></li>
+						<li><a href="#">코로나</a></li>
+						<li><a href="#">Tempus Magna</a></li>
+						<li><a href="#">Feugiat Veroeros</a></li>
+					</ul>
+				</li>
+				<li><a href="#">[Empty]Maximus Erat</a></li>
+				<li><a href="#">[Empty]Sapien Mauris</a></li>
 				</ul>
 			</nav>
 
@@ -74,20 +73,49 @@
 		<!-- Section -->
 			<section>
 				<header class="major">
-					<h2>Get in touch</h2>
+					<h2>우리 팀의 다양한 기능을 광고중</h2>
 				</header>
-				<p>Sed varius enim lorem ullamcorper dolore aliquam aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin sed aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
-				<ul class="contact">
-					<li class="icon solid fa-envelope"><a href="#">information@untitled.tld</a></li>
-					<li class="icon solid fa-phone">(000) 000-0000</li>
-					<li class="icon solid fa-home">1234 Somewhere Road #8254<br />
-					Nashville, TN 00000-0000</li>
-				</ul>
+				<p>사이드바에 위젯 집어넣는 조를 본적이 있느냐,
+					<br>
+					디테일 하나 놓치지 않는 장인정신!
+				</p>
+				<article>
+					<a href="#" class="image"><img src="/images/pic09.jpg" alt="" /></a>
+					<p>날씨위젯</p>
+				</article>
+				<article>
+					<a href="#" class="image"><img src="/images/pic09.jpg" alt="" /></a>
+					<p>온도위젯</p>
+				</article>
 			</section>
 
 		<!-- Footer -->
+			<header>
+				<h2>팀원</h2>
+			</header>
 			<footer id="footer">
-				<p class="copyright">&copy; Untitled. All rights reserved. Demo Images: <a href="https://unsplash.com">Unsplash</a>. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+				<section>
+					<div class="mini-posts">
+						<article>
+							<a href="#" class="image"><img src="../images/pic07.jpg" alt="" /></a>
+							<p>위젯관리자</p>
+							
+						</article>
+						<article>
+							<a href="#" class="image"><img src="/images/pic08.jpg" alt="" /></a>
+							<p>계정 연동 관리자</p>
+							<p>카톡 로그인 오류시 연락바랍니다</p>
+						</article>
+						<article>
+							<a href="#" class="image"><img src="/images/pic09.jpg" alt="경고" /></a>
+							<p>개발팀!?</p>
+							<p>클릭하지않는게 좋을것이다</p>
+						</article>
+					</div>
+					<ul class="actions">
+						<li><a href="#" class="button">더 볼래요?</a></li>
+					</ul>
+				</section>
 			</footer>
 
 	</div>

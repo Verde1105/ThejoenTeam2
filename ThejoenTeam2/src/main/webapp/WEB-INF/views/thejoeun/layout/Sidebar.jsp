@@ -56,14 +56,17 @@
 				<article>
 					<a href="#" class="image"><img src="../images/pic07.jpg" alt="" /></a>
 					<p>개발팀!</p>
+					
 				</article>
 				<article>
 					<a href="#" class="image"><img src="/images/pic08.jpg" alt="" /></a>
 					<p>개발팀?</p>
+					<p>카톡 로그인 오류시 연락바랍니다</p>
 				</article>
 				<article>
 					<a href="#" class="image"><img src="/images/pic09.jpg" alt="" /></a>
 					<p>개발팀!?</p>
+					<p>경고문</p>
 				</article>
 			</div>
 			<ul class="actions">

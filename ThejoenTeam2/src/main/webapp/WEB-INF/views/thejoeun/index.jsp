@@ -35,8 +35,7 @@
 								<section id="banner">
 									<div class="content">
 										<header>
-											<h1>프로젝트<br />
-											by HHR</h1>
+											<h1>Health Community Project </h1>
 											<p>A free and fully responsive site template</p>
 										</header>
 										<p>더조은 종로구 보건소는 언제나 방역을 위해 최선을 다합니다!</p>
@@ -52,35 +51,35 @@
 							<!-- Section -->
 							<section>
 								<header class="major">
-									<h2>손씻기 규칙같은거</h2>
+									<h2>방역을 위한 작은 실천!</h2>
 								</header>
 								<div class="features">
 									<article>
 										<div class="content">
 										<a href="https://www.flaticon.com/kr/free-icons/-" target="_blank" title="손 씻기 아이콘">손 씻기 아이콘  제작자: Konkapp - Flaticon</a>
-										<img src="/images/free-icon-hand-washing-2853684.jpg" alt="손씻기 아이콘" />
+										<img src="/images/free-icon-hand-washing-2853684.jpg" width="200px" height="200px" alt="손씻기 아이콘" />
 											<h3>깨끗이 손씻기</h3>
 										</div>
 									</article>
 									
 									<article>
 										<div class="content">
-									<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="기침 아이콘">기침 아이콘  제작자: Freepik - Flaticon</a>
-										<img src="/images/free-icon-cough-2755798.jpg" alt="기침 아이콘" />
+											<img src="/images/free-icon-cough-2755798.jpg" width="200px" height="200px" alt="기침 아이콘" />
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="기침 아이콘">기침 아이콘  제작자: Freepik - Flaticon</a>
 											<h3>기침시 입을 가리고</h3>
 										</div>
 									</article>
 									<article>
 										<div class="content">
-										<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="마스크 아이콘">마스크 아이콘  제작자: smashingstocks - Flaticon</a>
-										<img src="/images/free-icon-mask-7066301.jpg" alt="마스크 아이콘" />
+											<img src="/images/free-icon-mask-7066301.jpg" width="200px" height="200px" alt="마스크 아이콘" />
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="마스크 아이콘">마스크 아이콘  제작자: smashingstocks - Flaticon</a>
 											<h3>증상이 있을 시 마스크 착용</h3>
 										</div>
 									</article>
 									<article>
 										<div class="content">
-									<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘">피곤한 아이콘  제작자: Freepik - Flaticon</a>
-										<img src="/images/free-icon-dizziness-3997708.jpg" width="200px" height="200px" alt="피곤한 아이콘" />
+											<img src="/images/free-icon-dizziness-3997708.jpg" width="200px" height="200px" alt="피곤한 아이콘" />
+											<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘">피곤한 아이콘  제작자: Freepik - Flaticon</a>
 											<h3>빠른 시일 내 내원</h3>
 										</div>
 									</article>

@@ -157,16 +157,16 @@ public class UserController {
 		User originUser=userService.회원찾기(kakaoUser.getUsername());
 		
 		if(originUser.getUsername()==null) {
+			kakaoUser.setEmail("이메일 없음");
 			System.out.println("기존회원 아닙니당~");
 			userService.회원가입(kakaoUser);
-			
 		}
 		
 		//로그인처리
 		Authentication authentication = authenticationManager
 				.authenticate(new UsernamePasswordAuthenticationToken(kakaoUser.getUsername(), cosKey));
 		SecurityContextHolder.getContext().setAuthentication(authentication);
-		return "redirect:/";
+		return "redirect:/thejoeun/index";
 		
 		
 	}

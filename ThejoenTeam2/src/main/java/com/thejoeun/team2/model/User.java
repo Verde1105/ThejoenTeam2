@@ -34,7 +34,7 @@ public class User {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)//프로젝트에서 연결 된 db의 넘버링 전략을 '따라간다.=아이덴티티'
 	private int id;
 	
-	@Column(nullable = false,length = 30)
+	@Column(nullable = false,length=100, unique=true)
 	private String username;
 	
 	@Column(nullable = false,length = 100)
@@ -46,6 +46,8 @@ public class User {
 //	@ColumnDefault("user") 야 기억해 ㅋㅋㅋ. 이넘 없이 이것만 했을때 테이블 안만들어졌음ㅋㅋㅋ.
 	@Enumerated(EnumType.STRING)//DB는 롤타입이라는게 없어서, 이넘파일의 타입을 따라가 달라고 이야기한것.
 	private RoleType role;//이넘 을 쓰는게 좋다. //어드민,유저.매니저(특정 권한을 줄수있다)
+	
+	private String oauth;//카카오, 구글
 	
 	@CreationTimestamp//시간이 자동입력
 	private Timestamp createDate;

@@ -40,20 +40,28 @@ public class UserService {
 		User persistance=userRepository.findById(user.getId()).orElseThrow(()->{
 			return new IllegalArgumentException("회원찾기 실패");
 		});
-		String rawPassword = user.getPassword();
-		String enPassword = encoder.encode(rawPassword);
-		persistance.setPassword(enPassword);
-		persistance.setEmail(user.getEmail());
-		//회원수정 함수 종료시 = 서비스 종료 = 트랜잭션 종료 = 커밋이 자동으로 됩니다.
-		//영속화 된 persistance 객체의 변화가 감지되면 더티체킹이 되어 업데이트문을 자동으로 날려준다(깃허브같네)
-	
+		
+		if(persistance.getOauth()==null || persistance.getOauth().equals("")) {
+			String rawPassword = user.getPassword();
+			String enPassword = encoder.encode(rawPassword);
+			persistance.setPassword(enPassword);
+			persistance.setEmail(user.getEmail());
+			//회원수정 함수 종료시 = 서비스 종료 = 트랜잭션 종료 = 커밋이 자동으로 됩니다.
+			//영속화 된 persistance 객체의 변화가 감지되면 더티체킹이 되어 업데이트문을 자동으로 날려준다(깃허브같네)
+		}
 	}
-
-	
-	
 	
 //	@Transactional(readOnly = true)
 //	public User 로그인(User user) {
 //		return userRepository.findByUsernameAndPassword(user.getUsername(),user.getPassword());
 //	}
+	
+	@Transactional(readOnly=true)
+	public User 회원찾기(String username) {
+		User user = userRepository.findByUsername(username).orElseGet(()->{
+		return new User();
+		});
+		return user;
+	}
+	
 }

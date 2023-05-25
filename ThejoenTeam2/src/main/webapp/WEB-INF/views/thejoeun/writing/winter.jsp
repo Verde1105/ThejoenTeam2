@@ -53,7 +53,7 @@
 									</a> 
 									
 									<a href="http://www.cdc.go.kr" target="_blank" title="새창열림">
-										<img alt="질병관리본부" src="/images/질병관리청.png">
+										<img alt="질병관리본부" src="/images/질병관리청.ing">
 									</a>
 								</div>
 								

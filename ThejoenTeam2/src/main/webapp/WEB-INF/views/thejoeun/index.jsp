@@ -39,13 +39,13 @@
 											by HHR</h1>
 											<p>A free and fully responsive site template</p>
 										</header>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet egestas mauris. Ut magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+										<p>더조은 종로구 보건소는 언제나 방역을 위해 최선을 다합니다!</p>
 										<ul class="actions">
 											<li><a href="#" class="button big">Learn More</a></li>
 										</ul>
 									</div>
 									<span class="image object">
-										<img src="/images/pic10.jpg" alt="" />
+										<img src="/images/보건소이미지.jpg" alt="" />
 									</span>
 								</section>
 
@@ -80,7 +80,7 @@
 									<article>
 										<div class="content">
 									<a href="https://www.flaticon.com/kr/free-icons/" target="_blank" title="피곤한 아이콘">피곤한 아이콘  제작자: Freepik - Flaticon</a>
-										<img src="/images/free-icon-dizziness-3997708.jpg" alt="피곤한 아이콘" />
+										<img src="/images/free-icon-dizziness-3997708.jpg" width="200px" height="200px" alt="피곤한 아이콘" />
 											<h3>빠른 시일 내 내원</h3>
 										</div>
 									</article>

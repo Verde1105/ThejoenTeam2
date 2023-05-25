@@ -48,6 +48,11 @@ public class ThejoeunController {
 	public String winter() {
 		return "thejoeun/writing/winter";
 	}
+	
+	@GetMapping("/thejoeun/weather")
+	public String weather() {//컨트롤에서 세션을 어떻게 찾는가?
+		return "thejoeun/weather";
+	}
 
 }
 //@AuthenticationPrincipal PrincipalDetail principal

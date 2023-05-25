@@ -6,7 +6,7 @@
 		<%@ include file="layout/header.jsp" %>
 	</head>
 	
-<head>
+<!-- <head>
     <meta charset="UTF-8">
     <title>News Articles</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
@@ -52,9 +52,12 @@
             background-color: #f8f9fa;
         }
     </style>
-</head>
-<body>
-    <div class="container">
+</head> -->
+<body class="is-preload">
+
+<!-- Wrapper -->
+<div id="wrapper">
+	<div class="container">
         <h1>News Articles</h1>
         <table class="table table-striped table-hover">
             <thead>
@@ -74,12 +77,19 @@
                 </c:forEach>
             </tbody>
         </table>
-	<!-- Sidebar -->
+	</div>
 	<%@ include file="layout/Sidebar.jsp" %>
-    </div>
+</div>
     
+    <!--  
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-
+    -->
+<!-- Scripts -->
+<script src="/assets/js/jquery.min.js"></script>
+<script src="/assets/js/browser.min.js"></script>
+<script src="/assets/js/breakpoints.min.js"></script>
+<script src="/assets/js/util.js"></script>
+<script src="/assets/js/main.js"></script>
 </body>
 
 </html>

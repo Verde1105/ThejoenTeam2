@@ -19,22 +19,22 @@ public class WritingContorller {
 	}
 	 */
 	
-	@GetMapping("/thejoeun/infectious")
+	@GetMapping("thejoeun/writing/infectious")
 	public String infectious() {
 		return "thejoeun/writing/infectious";
 	}
 	
-	@GetMapping("/thejoeun/respiratory")
+	@GetMapping("thejoeun/writing/respiratory")
 	public String respiratory() {
 		return "thejoeun/writing/respiratory";
 	}
 	
-	@GetMapping("/thejoeun/mpox_people")
+	@GetMapping("thejoeun/writing/mpox_people")
 	public String mpox_people() {
 		return "thejoeun/writing/mpox_people";
 	}
 	
-	@GetMapping("/thejoeun/mpox_guest")
+	@GetMapping("thejoeun/writing/mpox_guest")
 	public String mpox_guest() {
 		return "thejoeun/writing/mpox_guest";
 	}

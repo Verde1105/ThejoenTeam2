@@ -36,12 +36,12 @@
                   <header class="main">
                      <h1>Generic</h1>
                   </header>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_1.jpg" alt="" /></span>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_2.jpg" alt="" /></span>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_3.jpg" alt="" /></span>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_4.jpg" alt="" /></span>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_5.jpg" alt="" /></span>
-                  <span class="image main"><img src="images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_6.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_1.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_2.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_3.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_4.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_5.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/호흡기세포융합바이러스_감염증_알아보기_카드_뉴스_JPG_6.jpg" alt="" /></span>
                </section>
                </div>
             </div>

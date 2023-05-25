@@ -36,7 +36,7 @@
                   <header class="main">
                      <h1>Generic</h1>
                   </header>
-                  <span class="image main"><img src="images/엠폭스_대국민용.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/엠폭스_대국민용.jpg" alt="" /></span>
                </section>
                </div>
             </div>

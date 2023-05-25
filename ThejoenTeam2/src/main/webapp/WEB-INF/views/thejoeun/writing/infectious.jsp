@@ -36,10 +36,18 @@
                   <header class="main">
                      <h1>Generic</h1>
                   </header>
-                  <span class="image main"><img src="images/엠폭스_방문자용.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_1.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_2.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_3.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_4.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_5.jpg" alt="" /></span>
+                  <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_6.jpg" alt="" /></span>
+                  <span class="image main"><img src="images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_7.jpg" alt="" /></span>
+                  <span class="image main"><img src="images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_8.jpg" alt="" /></span>
                </section>
                </div>
             </div>
+
          <!-- Sidebar -->
          <%@ include file="layout/Sidebar.jsp" %>
       </div>

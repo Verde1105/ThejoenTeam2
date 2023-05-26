@@ -22,9 +22,6 @@ import com.thejoeun.team2.repository.UserRepository;
 @Service
 public class BoardService {
 
-	@Autowired
-		private ReplyRepository replyRepository;
-
 	
 	@Autowired
 	private BoardRepository boardRepository;
@@ -68,23 +65,5 @@ public class BoardService {
 		board.setCount(requestBoard.getCount());
 		//해당 함수 종료시(서비스 조욜시) 트랜잭션 종료, 자동 업데이트가 되어서 db에 갱신
 	}
-	
-	@Transactional
-	   public void 댓글쓰기(User user, int boardId, Reply requestReply) {
-
-	      Board board = boardRepository.findById(boardId).orElseThrow(() -> {
-	         return new IllegalArgumentException("글찾기 실패: 아이디 찾을 수 없음");
-	      }); // 영속화 완료
-
-	      requestReply.setUser(user);
-	      requestReply.setBoard(board);
-
-	      replyRepository.save(requestReply);
-	   }
-	   
-	   @Transactional
-	   public void 댓글삭제(int replyId) {
-	      replyRepository.deleteById(replyId);
-	   }
 
 }

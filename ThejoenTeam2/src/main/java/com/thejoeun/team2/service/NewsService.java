@@ -32,7 +32,7 @@ public class NewsService {
    private NewsRepository newsRepository;
    
    @Async
-   @Scheduled(cron = "0 0 0/2 * * *")
+   @Scheduled(cron = "0 0/1 * * * *")
    public void newsApi() throws ParseException {
       String clientId = "KHO56Io3Uy5iodrbzU8i"; 
       String clientSecret = "mGeduWKDNe"; 

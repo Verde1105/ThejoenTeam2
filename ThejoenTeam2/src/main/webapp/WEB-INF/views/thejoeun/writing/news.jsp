@@ -58,7 +58,7 @@
 <!-- Wrapper -->
 <div id="wrapper">
 	<div class="container">
-        <h1>오늘의 추천 기사</h1>
+        <h2>오늘의 추천 기사</h2>
         <table class="table table-striped table-hover">
             <thead>
                 <tr>

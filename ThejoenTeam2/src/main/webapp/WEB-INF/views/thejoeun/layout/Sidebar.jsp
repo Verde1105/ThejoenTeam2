@@ -169,28 +169,7 @@
 				<h2>팀원</h2>
 			</header>
 			<footer id="footer">
-			<section>
-				<div class="mini-posts">
-					<article>
-						<a href="#" class="image"><img src="../images/pic07.jpg" alt="" /></a>
-						<p>위젯관리자</p>
-						
-					</article>
-					<article>
-						<a href="#" class="image"><img src="/images/pic08.jpg" alt="" /></a>
-						<p>계정 연동 관리자</p>
-						<p>카톡 로그인 오류시 연락바랍니다</p>
-					</article>
-					<article>
-						<a href="#" class="image"><img src="/images/pic09.jpg" alt="경고" /></a>
-						<p>개발팀!?</p>
-						<p>클릭하지않는게 좋을것이다</p>
-					</article>
-				</div>
-				<ul class="actions">
-					<li><a href="#" class="button">더 볼래요?</a></li>
-				</ul>
-			</section>
+			
 			</footer>
 
 	</div>

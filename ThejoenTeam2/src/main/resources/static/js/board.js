@@ -12,6 +12,9 @@ let index = {
 		$("#btn-reply-save").on("click", ()=>{ 
             this.replySave();
         });
+		$("#btn-reply-Delete").on("click", ()=>{ 
+            this.replyDelete();
+        });
 
 	},
 	
@@ -74,8 +77,8 @@ let index = {
 	
 	 replySave: function(){
          let data = {
-               userId: $("#userId").val(),
-               boardId: $("#boardId").val(),
+               userId: $("#userid").val(),
+               boardId: $("#boardid").val(),
                content: $("#reply-content").val()
          };
          

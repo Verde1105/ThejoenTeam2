@@ -1,11 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
     <!DOCTYPE HTML>
-<!--
-   Editorial by HTML5 UP
-   html5up.net | @ajlkn
-   Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
    <head>
       <%@ include file="layout/header.jsp" %>
@@ -21,15 +16,13 @@
 
                <!-- Header -->
                <header id="header">
-                  <a href="https://www.jongno.go.kr/healthMain.do" class="logo"><strong>Health Community</strong> Project</a><a href="index.jsp" class="logo"><strong>Editorial</strong> by HTML5 UP</a>
-                  <ul class="icons">
-                     <li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-                     <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-                     <li><a href="#" class="icon brands fa-snapchat-ghost"><span class="label">Snapchat</span></a></li>
-                     <li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-                     <li><a href="#" class="icon brands fa-medium-m"><span class="label">Medium</span></a></li>
-                  </ul>
-               </header>
+					<a href="https://www.jongno.go.kr/healthMain.do" class="logo"><strong>Health Community</strong> Project</a>
+					<ul class="icons">
+						<li><a href="https://twitter.com/?lang=ko" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+						<li><a href="https://ko-kr.facebook.com/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://www.instagram.com/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+					</ul>
+				</header>
 
                <!-- Content -->
                <section>

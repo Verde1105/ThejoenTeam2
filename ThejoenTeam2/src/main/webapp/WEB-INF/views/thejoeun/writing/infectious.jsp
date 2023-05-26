@@ -27,7 +27,6 @@
                <!-- Content -->
                <section>
                   <header class="main">
-                     <h1>Generic</h1>
                   </header>
                   <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_1.jpg" alt="" /></span>
                   <span class="image main"><img src="/images/신종감염병_대유행_대비_중장기_계획_카드_뉴스_JPG_2.jpg" alt="" /></span>

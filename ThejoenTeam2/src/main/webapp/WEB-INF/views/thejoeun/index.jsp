@@ -23,6 +23,8 @@
 								<header id="header">
 									<a href="https://www.jongno.go.kr/healthMain.do" class="logo"><strong>Health Community</strong> Project</a>
 									<ul class="icons">
+										<li class="nav-item"><a class="nav-link" href="/auth/loginForm">로그인</a></li>
+										<li class="nav-item"><a class="nav-link" href="/auth/joinForm">회원가입</a></li>
 										<li><a href="https://twitter.com/?lang=ko" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
 										<li><a href="https://ko-kr.facebook.com/" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
 										<li><a href="https://www.instagram.com/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>

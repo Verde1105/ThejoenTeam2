@@ -91,10 +91,10 @@
 									</header>
 									<div class="posts">
 										<article>
-											<a href="/thejoeun/writing/" class="image"><img src="/images/무더운_여름_온열질환을_조심하세요!_카드뉴스1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/disease" class="image"><img src="/images/무더운_여름_온열질환을_조심하세요!_카드뉴스1.jpg" alt="" /></a>
 											<h3>무더운 여름 온열질환을 주의하세요!</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/disease" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>
@@ -112,10 +112,10 @@
 											</ul>
 										</article>
 										<article>
-											<a href="/thejoeun/writing/" class="image"><img src="/images/검역관리_기본계획_카드뉴스_1_1.jpg" alt="" /></a>
+											<a href="/thejoeun/writing/quarantine" class="image"><img src="/images/검역관리_기본계획_카드뉴스_1_1.jpg" alt="" /></a>
 											<h3>검역관리 기본 계획</h3>
 											<ul class="actions">
-												<li><a href="#" class="button">자세히보기</a></li>
+												<li><a href="/thejoeun/writing/quarantine" class="button">자세히보기</a></li>
 											</ul>
 										</article>
 										<article>

@@ -6,18 +6,16 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class WritingContorller {
 
-	/*
-	 * 
-	@GetMapping("/thejoeun/")
-	public String 감염대책() {
-		return "thejoeun/writing/";
+	 
+	@GetMapping("/thejoeun/writing/quarantine")
+	public String quarantine() {
+		return "thejoeun/writing/quarantine";
 	}
 	
-	@GetMapping("/thejoeun/")
-	public String 더위() {
-		return "thejoeun/writing/";
+	@GetMapping("/thejoeun/writing/disease")
+	public String disease() {
+		return "thejoeun/writing/disease";
 	}
-	 */
 	
 	@GetMapping("thejoeun/writing/infectious")
 	public String infectious() {

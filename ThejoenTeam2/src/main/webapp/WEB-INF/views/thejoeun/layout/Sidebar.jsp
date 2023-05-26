@@ -38,8 +38,7 @@
 				<li>
 					<span class="opener">그래프로 보기</span>
 					<ul>
-						<li><a href="#">온도</a></li>
-						<li><a href="#">코로나</a></li>
+						<li><a href="/thejoeun/covid19">코로나</a></li>
 					</ul>
 				</li>
 			</ul>
@@ -166,7 +165,10 @@
 
 		<!-- Footer -->
 			<header>
-				<h2>팀원</h2>
+				<h3>참여명단</h3>
+				<h4>팀원:백재형</h4>
+				<h4>팀원:허윤서</h4>
+				<h4>팀원:황혜림</h4>
 			</header>
 			<footer id="footer">
 			

@@ -32,7 +32,7 @@ public class NewsService {
    private NewsRepository newsRepository;
    
    @Async
-   @Scheduled(cron = "0 0/1 * * * *")
+   @Scheduled(cron = "0 0 0/1 * * *")
    public void newsApi() throws ParseException, InterruptedException {
       String clientId = "KHO56Io3Uy5iodrbzU8i"; 
       String clientSecret = "mGeduWKDNe"; 
@@ -77,7 +77,6 @@ public class NewsService {
       nw.setTitle(title);
       nw.setOriginallink(link);
       nw.setDescription(desc);
-      Thread.sleep(10000);
       this.newsRepository.save(nw);
    }
 

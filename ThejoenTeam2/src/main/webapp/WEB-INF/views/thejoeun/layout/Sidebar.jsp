@@ -18,7 +18,6 @@
 			</header>
 			<ul>
 				<li><a href="/thejoeun/index">Homepage</a></li>
-				<li><a href="#">공지사항</a></li>
 				<!-- 
 				<li><a href="/thejoeun/gen">Generic</a></li>
 				<li><a href="/thejoeun/ele">Elements</a></li>
@@ -35,18 +34,14 @@
 					</ul>
 				</li>
 				<li><a href="/thejoeun/news">뉴스 찾아보기</a></li>
-				<li><a href="#">무더위 쉼터 위치(서울 종로구)</a></li>
+
 				<li>
 					<span class="opener">그래프로 보기</span>
 					<ul>
-						<li><a href="#">날씨&온도</a></li>
+						<li><a href="#">온도</a></li>
 						<li><a href="#">코로나</a></li>
-						<li><a href="#">Tempus Magna</a></li>
-						<li><a href="#">Feugiat Veroeros</a></li>
 					</ul>
 				</li>
-				<li><a href="#">[Empty]Maximus Erat</a></li>
-				<li><a href="#">[Empty]Sapien Mauris</a></li>
 			</ul>
 		</nav>
 
